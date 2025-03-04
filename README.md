@@ -14,3 +14,6 @@ This project was completed as part of my Data Analyst certification. It involves
 - **Data Analysis**: Conducted analysis on customer service metrics, revenue, and employee performance using Power BI’s visualization features.
 
 This project demonstrates my ability to analyze large datasets, transform and clean data, and create actionable insights through interactive dashboards, ultimately supporting data-driven decisions.
+
+Note: This dashboard was created as part of the certification exam for the Data Analyst course, focusing on analyzing anonymized customer service data and providing insights for performance, revenue, and efficiency.
+
