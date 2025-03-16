@@ -35,5 +35,4 @@ This project analyzes anonymized customer service data from 2018-2021 to evaluat
 This project demonstrates my ability to analyze customer service data, clean and transform it for visualization, and create actionable insights using Power BI. The interactive dashboard aids in monitoring performance and making decisions that improve customer service and overall operational efficiency.
 
 
-Note: This dashboard was created as part of the certification exam for the Data Analyst course, focusing on analyzing anonymized customer service data and providing insights for performance, revenue, and efficiency.
-
+Note: This dashboard was created as part of the certification exam for the Data Analyst course.
