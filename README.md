@@ -1,38 +1,58 @@
-# Power BI Customer Service Analytics Dashboard
+# 📞 Customer Service Dashboard - Power BI 
 
-This project analyzes anonymized customer service data from 2018-2021 to evaluate key performance metrics, revenue, and employee efficiency. The Power BI dashboard created as part of this project is designed to help the regional director make data-driven decisions for improving customer service performance and operational efficiency.
-
-## Key Features
-
-### 1. **Customer Service Overview**  
-- Analyzed total call volume and identified SLA compliance (Within SLA or Outside SLA) across various sectors and offices.
-- Visualized average call times and tracked KPIs like response time to measure service quality.
-
-### 2. **Revenue Insights**  
-- Explored year-over-year revenue trends to assess growth and performance.
-- Visualized revenue by sector, team, and call type to identify high-performing areas.
-
-### 3. **Performance of Managers and Employees**  
-- Evaluated the performance of managers and employees by analyzing individual call handling times and SLA compliance.
-- Identified inefficiencies in waiting times for teams and employees to enhance service delivery.
-
-## Tools & Techniques
-
-- **Power BI**: Data analysis, cleaning, transformation, and interactive dashboard creation.
-- **Power Query & DAX**: Used for data cleaning, transformation, and calculating SLA compliance, revenue trends, and other key metrics.
-
-## User Details
-- **Primary Users**: The regional director, who uses this dashboard to make decisions about customer service performance and operational improvements.
-- **Other Users**: Managers and team leads may also benefit from key insights, though the dashboard is primarily designed for strategic decision-making.
-
-## Impact
-
-- The dashboard provides the regional director with quick access to insights, allowing for faster, more informed decisions to improve SLA compliance, reduce response times, and enhance overall customer service efficiency.
-- The insights gained from this dashboard support data-driven decision-making that can lead to improvements in team performance and service levels.
-
-## Conclusion
-
-This project demonstrates my ability to analyze customer service data, clean and transform it for visualization, and create actionable insights using Power BI. The interactive dashboard aids in monitoring performance and making decisions that improve customer service and overall operational efficiency.
-
+This project aims to create a Power BI dashboard to evaluate SLA performance, revenue trends, and team efficiency using anonymized call center data from 2018 to 2021. The dashboard supports the regional director in making data-driven decisions to improve customer service performance and enhance operational efficiency.
 
 Note: This dashboard was created as part of the certification exam for the Data Analyst course.
+
+## 📊 Dashboard Features
+This Power BI dashboard is organized into three main analysis axes:
+
+1. **Customer Service Overview**
+   - Total number of calls by sector, site, and weekday
+   - Average call duration and wait time
+   - SLA compliance rate (Within SLA vs Outside SLA)
+   - Key metrics such as highest revenue and call center performance
+
+2. **Revenue Insights**
+   - Total and average revenue per manager and year
+   - Revenue trends from 2018 to 2021
+   - Revenue breakdown by sector and team
+   - Filters to explore by month, weekday, and call type
+
+3. **Manager & Employee Performance**
+   - Number of calls managed per manager
+   - Average wait time per employee
+   - Sector and time-based filters to compare team efficiency
+
+---
+
+## 🔍 Key Insights
+
+- SLA compliance remained stable at 88%, indicating generally good responsiveness, though there’s room for optimization to reach higher service levels.
+- 2018 had the highest Total Calls (33,057), while 2021 had the highest Total Revenue ($3,358,570), showing improved efficiency and value per call.
+- In 2021, Ardath Ducharme handled the highest number of calls (14,533), nearly 148% more than the lowest-performing manager, highlighting a significant performance gap among team leaders.
+
+
+---
+
+## 📎 Files & Deliverables
+
+- `Customer_Service_Dashboard.pbix` – Power BI file  
+- `screenshots/` – Dashboard visuals  
+- `README.md` – Full project overview  
+- (Optional) `Customer_Service_Report.pdf` – Final report
+
+---
+
+## 💬 What I Learned
+
+- Used DAX to calculate SLA performance and revenue KPIs  
+- Applied Power Query to clean and merge multi-table data  
+- Designed dashboard layout for business decision-makers  
+- Gained experience presenting service performance and revenue trends
+
+---
+
+## 🛠 Tools Used
+
+Power BI • Power Query • DAX • Excel
