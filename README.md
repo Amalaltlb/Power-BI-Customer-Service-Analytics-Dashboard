@@ -38,7 +38,7 @@ This Power BI dashboard is organized into three main analysis axes:
 > Displays revenue trends across sectors and years.
 
 ### 3. Manager & Employee Performance
-![Manager Performance]([https://github.com/Amalaltlb/Power-BI-Customer-Service-Analytics-Dashboard/raw/main/screenshots/manager_performance.png](https://github.com/Amalaltlb/Power-BI-Customer-Service-Analytics-Dashboard/blob/main/revenue_insights.png))
+![Manager Performance](team_perfomance.png)
 
 > Highlights differences in call volume and wait time per manager.
 
