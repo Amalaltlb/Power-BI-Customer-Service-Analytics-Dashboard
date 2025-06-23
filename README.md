@@ -4,6 +4,8 @@ This project aims to create a Power BI dashboard to evaluate SLA performance, re
 
 Note: This dashboard was created as part of the certification exam for the Data Analyst course.
 
+---
+
 ## 📊 Dashboard Features
 This Power BI dashboard is organized into three main analysis axes:
 
@@ -23,22 +25,25 @@ This Power BI dashboard is organized into three main analysis axes:
    - Number of calls managed per manager
    - Average wait time per employee
    - Sector and time-based filters to compare team efficiency
+
 ---
 
 ## 🖼 Dashboard Previews
 
-### 1. Customer Service Overview
-![Customer Service Overview](customer_service_overview.png)
+<h3>1. Customer Service Overview</h3>
+<img src="https://github.com/Amalaltlb/Power-BI-Customer-Service-Analytics-Dashboard/raw/main/customer_service_overview.png" width="700"/>
 
 > Shows total calls by sector, SLA compliance rate, and average call duration.
 
-### 2. Revenue Insights
-![Revenue Insights](revenue_insights.png)
+
+<h3>2. Revenue Insights</h3>
+<img src="https://github.com/Amalaltlb/Power-BI-Customer-Service-Analytics-Dashboard/raw/main/revenue_insights.png" width="700"/>
 
 > Displays revenue trends across sectors and years.
 
-### 3. Manager & Employee Performance
-![Team Performance](team_perfomance.png)
+
+<h3>3. Manager & Employee Performance</h3>
+<img src="https://github.com/Amalaltlb/Power-BI-Customer-Service-Analytics-Dashboard/raw/main/team_perfomance.png" width="700"/>
 
 > Highlights differences in call volume and wait time per manager.
 
@@ -55,7 +60,7 @@ This Power BI dashboard is organized into three main analysis axes:
 ## 📎 Files & Deliverables
 
 - `Customer Service Dashboard.pbix` – Power BI file  
-- PNG files containing dashboard visuals 
+- PNG files - Dashboard Visuals 
 - `README.md` – Full project overview  
 
 ---
@@ -71,4 +76,4 @@ This Power BI dashboard is organized into three main analysis axes:
 
 ## 🛠 Tools Used
 
-Power BI • Power Query • DAX • Excel
+Power BI • Power Query • DAX 
