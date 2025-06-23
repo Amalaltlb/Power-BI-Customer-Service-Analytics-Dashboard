@@ -55,7 +55,7 @@ This Power BI dashboard is organized into three main analysis axes:
 ## 📎 Files & Deliverables
 
 - `Customer Service Dashboard.pbix` – Power BI file  
-- `screenshots/` – Dashboard visuals  
+- PNG files containing dashboard visuals 
 - `README.md` – Full project overview  
 
 ---
