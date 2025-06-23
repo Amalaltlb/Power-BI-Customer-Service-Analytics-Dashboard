@@ -28,7 +28,7 @@ This Power BI dashboard is organized into three main analysis axes:
 ## 🖼 Dashboard Previews
 
 ### 1. Customer Service Overview
-![Customer Service Overview](https://github.com/Amalaltlb/Power-BI-Customer-Service-Analytics-Dashboard/raw/main/screenshots/customer_service_overview.png)
+![Customer Service Overview](customer_service_overview.png)
 
 > Shows total calls by sector, SLA compliance rate, and average call duration.
 
