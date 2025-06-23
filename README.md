@@ -33,7 +33,7 @@ This Power BI dashboard is organized into three main analysis axes:
 > Shows total calls by sector, SLA compliance rate, and average call duration.
 
 ### 2. Revenue Insights
-![Revenue Insights](https://github.com/Amalaltlb/Power-BI-Customer-Service-Analytics-Dashboard/raw/main/screenshots/revenue_insights.png)
+![Revenue Insights](revenue_insights.png)
 
 > Displays revenue trends across sectors and years.
 
