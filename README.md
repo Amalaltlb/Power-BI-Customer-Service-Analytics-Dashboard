@@ -23,6 +23,24 @@ This Power BI dashboard is organized into three main analysis axes:
    - Number of calls managed per manager
    - Average wait time per employee
    - Sector and time-based filters to compare team efficiency
+---
+
+## 🖼 Dashboard Previews
+
+### 1. Customer Service Overview
+![Customer Service Overview](https://github.com/Amalaltlb/Power-BI-Customer-Service-Analytics-Dashboard/raw/main/screenshots/customer_service_overview.png)
+
+> Shows total calls by sector, SLA compliance rate, and average call duration.
+
+### 2. Revenue Insights
+![Revenue Insights](https://github.com/Amalaltlb/Power-BI-Customer-Service-Analytics-Dashboard/raw/main/screenshots/revenue_insights.png)
+
+> Displays revenue trends across sectors and years.
+
+### 3. Manager & Employee Performance
+![Manager Performance](https://github.com/Amalaltlb/Power-BI-Customer-Service-Analytics-Dashboard/raw/main/screenshots/manager_performance.png)
+
+> Highlights differences in call volume and wait time per manager.
 
 ---
 
@@ -32,12 +50,11 @@ This Power BI dashboard is organized into three main analysis axes:
 - 2018 had the highest Total Calls (33,057), while 2021 had the highest Total Revenue ($3,358,570), showing improved efficiency and value per call.
 - In 2021, Ardath Ducharme handled the highest number of calls (14,533), nearly 148% more than the lowest-performing manager, highlighting a significant performance gap among team leaders.
 
-
 ---
 
 ## 📎 Files & Deliverables
 
-- `Customer_Service_Dashboard.pbix` – Power BI file  
+- `Customer Service Dashboard.pbix` – Power BI file  
 - `screenshots/` – Dashboard visuals  
 - `README.md` – Full project overview  
 
