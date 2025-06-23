@@ -1,6 +1,6 @@
 # 📞 Customer Service Dashboard - Power BI 
 
-This project aims to create a Power BI dashboard to evaluate SLA performance, revenue trends, and team efficiency using anonymized call center data from 2018 to 2021. The dashboard supports the regional director in making data-driven decisions to improve customer service performance and enhance operational efficiency.
+This project aims to create a Power BI dashboard to evaluate SLA performance, revenue trends, and team efficiency using anonymized call center data from 2018 to 2021. The dashboard is built to support the regional director in making data-driven decisions to improve customer service performance and enhance operational efficiency.
 
 Note: This dashboard was created as part of the certification exam for the Data Analyst course.
 
