@@ -38,7 +38,7 @@ This Power BI dashboard is organized into three main analysis axes:
 > Displays revenue trends across sectors and years.
 
 ### 3. Manager & Employee Performance
-![Team Performance](team_performance.png)
+![Team Performance](team_perfomance.png)
 
 > Highlights differences in call volume and wait time per manager.
 
