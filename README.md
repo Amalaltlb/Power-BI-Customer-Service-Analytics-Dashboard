@@ -40,7 +40,6 @@ This Power BI dashboard is organized into three main analysis axes:
 - `Customer_Service_Dashboard.pbix` – Power BI file  
 - `screenshots/` – Dashboard visuals  
 - `README.md` – Full project overview  
-- (Optional) `Customer_Service_Report.pdf` – Final report
 
 ---
 
